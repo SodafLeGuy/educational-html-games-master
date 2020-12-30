@@ -114,7 +114,7 @@
                 display: none;
             }
             
-            div.german {
+            div.vietnamese {
                 background-color: #eaeaea;
                 width: 100%;
                 height: 100%;
@@ -549,14 +549,14 @@
             
             //______________________________
             // helper function for creating cards
-            function addToArray(array, meaning, digits, dots, english, german, rows, cols)
+            function addToArray(array, meaning, digits, dots, english, vietnamese, rows, cols)
             {
                 array.push( new Card(meaning, "digits", digits, rows, cols) );
                 array.push( new Card(meaning, "dots", dots, rows, cols) );
                 if (_language == "en")
                     array.push( new Card(meaning, "english", english, rows, cols) );
                 if (_language == "vi")
-                    array.push( new Card(meaning, "vietnamese", german, rows, cols) );
+                    array.push( new Card(meaning, "vietnamese", vietnamese, rows, cols) );
             }
             
             
@@ -601,47 +601,47 @@
                 // add rows*cols/3 of 21 available cards
                 var cards = [];
                 if (selections[0].value)
-                    addToArray(cards, 0, "0", "&nbsp;", "Zero", "Null", rows, cols);
+                    addToArray(cards, 0, "0", "&nbsp;", "Zero", "Không", rows, cols);
                 if (selections[1].value)
-                    addToArray(cards, 1, "1", "&#8231;", "One", "Eins", rows, cols);
+                    addToArray(cards, 1, "1", "&#8231;", "One", "Một", rows, cols);
                 if (selections[2].value)
-                    addToArray(cards, 2, "2", "&#8231;&#8231;", "Two", "Zwei", rows, cols);
+                    addToArray(cards, 2, "2", "&#8231;&#8231;", "Two", "Hai", rows, cols);
                 if (selections[3].value)
-                    addToArray(cards, 3, "3", "&#8756;", "Three", "Drei", rows, cols);
+                    addToArray(cards, 3, "3", "&#8756;", "Three", "Ba", rows, cols);
                 if (selections[4].value)
-                    addToArray(cards, 4, "4", "&#8280;", "Four", "Vier", rows, cols);
+                    addToArray(cards, 4, "4", "&#8280;", "Four", "Bốn", rows, cols);
                 if (selections[5].value)
-                    addToArray(cards, 5, "5", "&#8281;", "Five", "F&uuml;nf", rows, cols);
+                    addToArray(cards, 5, "5", "&#8281;", "Five", "Năm", rows, cols);
                 if (selections[6].value)
-                    addToArray(cards, 6, "6", "<span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8231;", "Six", "Sechs", rows, cols);
+                    addToArray(cards, 6, "6", "<span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8231;", "Six", "Sáu", rows, cols);
                 if (selections[7].value)
-                    addToArray(cards, 7, "7", "<span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8231;&#8231;", "Seven", "Sieben", rows, cols);
+                    addToArray(cards, 7, "7", "<span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8231;&#8231;", "Seven", "Bảy", rows, cols);
                 if (selections[8].value)
-                    addToArray(cards, 8, "8", "<span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8756;", "Eight", "Acht", rows, cols);
+                    addToArray(cards, 8, "8", "<span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8756;", "Eight", "Tám", rows, cols);
                 if (selections[9].value)
-                    addToArray(cards, 9, "9", "<span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8280;", "Nine", "Neun", rows, cols);
+                    addToArray(cards, 9, "9", "<span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8280;", "Nine", "Chín", rows, cols);
                 if (selections[10].value)
-                    addToArray(cards, 10, "10", "<span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8281;", "Ten", "Zehn", rows, cols);
+                    addToArray(cards, 10, "10", "<span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8281;", "Ten", "Mười", rows, cols);
                 if (selections[11].value)
-                    addToArray(cards, 11, "11", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/>&#8231;", "Eleven", "Elf", rows, cols);
+                    addToArray(cards, 11, "11", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/>&#8231;", "Eleven", "Mười một", rows, cols);
                 if (selections[12].value)
-                    addToArray(cards, 12, "12", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/>&#8231;&#8231;", "Twelve", "Zw&ouml;lf", rows, cols);
+                    addToArray(cards, 12, "12", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/>&#8231;&#8231;", "Twelve", "Mười hai", rows, cols);
                 if (selections[13].value)
-                    addToArray(cards, 13, "13", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/>&#8756;", "Thirteen", "Dreizehn", rows, cols);
+                    addToArray(cards, 13, "13", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/>&#8756;", "Thirteen", "Mười ba", rows, cols);
                 if (selections[14].value)
-                    addToArray(cards, 14, "14", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/>&#8280;", "Fourteen", "Vierzehn", rows, cols);
+                    addToArray(cards, 14, "14", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/>&#8280;", "Fourteen", "Mười bốn", rows, cols);
                 if (selections[15].value)
-                    addToArray(cards, 15, "15", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/>&#8281;", "Fifteen", "F&uuml;nfzehn", rows, cols);
+                    addToArray(cards, 15, "15", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/>&#8281;", "Fifteen", "Mười lăm", rows, cols);
                 if (selections[16].value)
-                    addToArray(cards, 16, "16", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/><span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8231;", "Sixteen", "Sechzehn", rows, cols);
+                    addToArray(cards, 16, "16", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/><span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8231;", "Sixteen", "Mười sáu", rows, cols);
                 if (selections[17].value)
-                    addToArray(cards, 17, "17", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/><span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8231;&#8231;", "Seventeen", "Siebzehn", rows, cols);
+                    addToArray(cards, 17, "17", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/><span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8231;&#8231;", "Seventeen", "Mười bảy", rows, cols);
                 if (selections[18].value)
-                    addToArray(cards, 18, "18", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/><span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8756;", "Eighteen", "Achzehn", rows, cols);
+                    addToArray(cards, 18, "18", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/><span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8756;", "Eighteen", "Mười tám", rows, cols);
                 if (selections[19].value)
-                    addToArray(cards, 19, "19", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/><span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8280;", "Nineteen", "Neunzehn", rows, cols);
+                    addToArray(cards, 19, "19", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/><span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8280;", "Nineteen", "Mười chín", rows, cols);
                 if (selections[20].value)
-                    addToArray(cards, 20, "20", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/><span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8281;", "Twenty", "Zwanzig", rows, cols);
+                    addToArray(cards, 20, "20", "<span style='color:#888;'>&#8281;&nbsp;&nbsp;&#8281;</span><br/><span style='color:#000;'>&#8281;</span>&nbsp;&nbsp;&#8281;", "Twenty", "Hai mươi", rows, cols);
                 
                 // shuffle cards and assign tags
                 cards.sort( function(a, b) { return a.random - b.random; } );
@@ -802,14 +802,14 @@
         <!-- German workflow -->
         <div id="intro_vi" class="message">
             <b>Nhớ ba số</b> <br>
-            Ghi nhớ và tìm bộ ba thẻ phù hợp hiển thị cùng một số, như <span style="color: #f00000;"><b><i>3</i></b></span> và <span style="color: #f00000;"><b><i>&#8756;</i></b></span> và <span style="color: #f00000;"><b><i>Three</i></b></span>. Người chơi chơi theo lượt, mỗi người chơi mở ra ba thẻ mới bằng cách nhấp vào chúng. Sau ba lần nhấp, đến lượt người chơi tiếp theo.
+            Ghi nhớ và tìm bộ ba thẻ phù hợp hiển thị cùng một số, như <span style="color: #f00000;"><b><i>3</i></b></span> và <span style="color: #f00000;"><b><i>&#8756;</i></b></span> và <span style="color: #f00000;"><b><i>Ba</i></b></span>. Người chơi chơi theo lượt, mỗi người chơi mở ra ba thẻ mới bằng cách nhấp vào chúng. Sau ba lần nhấp, đến lượt người chơi tiếp theo.
             <br/><br/>
             <div>
                 <button onClick="proceed('intro_vi', 'names_vi');">Tiếp theo</button> hoặc <button onClick="proceed('intro_vi', 'language');">Quay lại</button>
             </div>
         </div>
         <div id="names_vi" class="message">
-            Tragt bis zu vier Spieler ein
+            Nhập tối đa bốn người chơi
             <br/>
             <input id="name1_vi" type="text" class="text" style="clear:left; background-color: #fff090"></input>
             <input id="name2_vi" type="text" class="text" style="clear:left; background-color: #b0fff0"></input>
