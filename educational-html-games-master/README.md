@@ -10,13 +10,13 @@ English
 - [Game of Sums and Differences](#id-game-of-sums-en)
 - [Game of Triplets](#id-game-of-triplets-en)
 
-Deutsch
+Tiếng Việt
 
-- [Einleitung](#id-introduction-de)
-- [Mengengr&ouml;&szlig;en](#id-sets-de)
-- [Dreifach-Zahlenmemory](#id-triple-number-memory-de)
-- [Additions- und Subtraktionsduell](#id-game-of-sums-de)
-- [Tripel-Spiel](#id-game-of-triplets-de)
+- [Giới thiệu](#id-introduction-vi)
+- [Tìm số lượng](#id-sets-vi)
+- [Nhớ ba số](#id-triple-number-memory-vi)
+- [Trò chơi của tổng và hiệu](#id-game-of-sums-vi)
+- [Trò chơi của ba số](#id-game-of-triplets-vi)
 
 
 # English #
@@ -114,7 +114,7 @@ If you enter just a single player's name, the game will be run in single-player 
 # Deutsch #
 
 
-<div id='id-introduction-de'/>
+<div id='id-introduction-vi'/>
 
 ## Einleitung ##
 
@@ -125,7 +125,7 @@ gespielt werden, per Mail oder Skype verschickt, etc. Die Spiele sind unter eine
 verbreitet sie.
 
 
-<div id='id-sets-de'/>
+<div id='id-sets-vi'/>
 
 ## Mengengr&ouml;&szlig;en ##
 __Mathematik | Klasse 1__  
@@ -142,7 +142,7 @@ Punkt. Nach zehn Runden ist das Spiel zu Ende. Je nach Punktestand werden versch
 [Alle Spiele als .zip herunterladen](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
-<div id='id-triple-number-memory-de'/>
+<div id='id-triple-number-memory-vi'/>
 
 ## Dreifach-Zahlenmemory ##
 __Mathematik, Deutsch | Klasse 1__  
@@ -157,7 +157,7 @@ Karten auf, danach ist der n&auml;chste Spieler an der Reihe.
 [Alle Spiele als .zip herunterladen](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
-<div id='id-game-of-sums-de'/>
+<div id='id-game-of-sums-vi'/>
 
 ## Additions- und Subtraktionsduell ##
 __Mathematik | Klasse 1-2__  
@@ -182,7 +182,7 @@ aufbrauchst ohne zu passen.
 [Alle Spiele als .zip herunterladen](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
-<div id='id-game-of-triplets-de'/>
+<div id='id-game-of-triplets-vi'/>
 
 ## Tripel-Spiel ##
 __Mathematik | Klasse 1-10__  
