@@ -111,24 +111,23 @@ If you enter just a single player's name, the game will be run in single-player 
 [Download .zip with all games](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
-# Deutsch #
+# Tiếng Việt #
 
 
 <div id='id-introduction-vi'/>
 
-## Einleitung ##
+## Giới thiệu ##
 
-Verschiedene kleine Lernspiele. Jedes Spiel besteht aus einer einzigen (html-) Datei, es werden keine externen Links
-geladen. Alle Bilder, Animationen etc befinden sich eingebettet innerhalb der Datei. Um ein Spiel zu benutzen, sind nur
-diese eine Datei und ein Standard-Internetbrowser n&ouml;tig. Spiele können auf PC/Tablet/Telefon gespeichert und
-gespielt werden, per Mail oder Skype verschickt, etc. Die Spiele sind unter einer CC-BY-Lizenz, bitte teilt und
-verbreitet sie.
+Các trò chơi giáo dục nhỏ khác nhau. Mỗi trò chơi bao gồm một tệp (html) duy nhất, không có tham chiếu bên ngoài nào được tải. Tất cả
+hình ảnh, hoạt ảnh, v.v. được nhúng trong tệp. Để chơi một trò chơi, tất cả những gì bạn cần là một tệp trò chơi và một
+trình duyệt internet tiêu chuẩn. Trò chơi có thể được lưu vào PC / máy tính bảng / điện thoại di động cục bộ của bạn và chơi ở đó, gửi qua email, skype,
+Vân vân,.
 
 
 <div id='id-sets-vi'/>
 
-## Mengengr&ouml;&szlig;en ##
-__Mathematik | Klasse 1__  
+## Tìm số lượng ##
+__Toán học | Màn 1__  
 Festig das Konzept von Zahlen und Mengengrößen, trainiert das Erfassen von Mengengrößen auf einen Blick
 
 Versuche, die Gr&ouml;&szlig;e von Mengen zu erfassen ohne zu z&auml;hlen. In der einen Version des Spieles ("Tiere") laufen
