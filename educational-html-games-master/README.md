@@ -180,16 +180,16 @@ Nếu một người chơi không còn số hoặc nếu cả hai người chơi
 __Toán học | Màn 1-10__  
 Trainiert Grundrechenarten, Potenzen, Logarithmen auf ganzen Zahlen, Zahlenraum 0-20.
 
-Wer kann mehr Gleichungen finden? Spiel f&uuml;r zwei Spieler, die Spieler spielen abwechselnd. Das Spiel beginnt, jeder Spieler hat eine Anzahl an Zahlen und Rechenoperationen zur Auswahl, im oberen Spielfeld ist eine leere Gleichung, \_&nbsp;\_&nbsp;\_&nbsp;\_&nbsp;\_&nbsp;=&nbsp;\_, zu sehen.
-* Der erste Spieler w&auml;hlt eine Zahl f&uuml;r den rechten Teil einer Gleichung, z.B. _\_&nbsp;\_&nbsp;\_&nbsp;\_&nbsp;\_&nbsp;=&nbsp;9_, und dr&uuml;ckt _Fertig_.
-* Der zweite Spiele w&auml;hlt drei Zahlen und zwei Rechenoperationen f&uuml;r den linken Teil einer Gleichung, z.B. _(1&nbsp;+&nbsp;2)&nbsp;&middot;&nbsp;3&nbsp;=&nbsp;9_, und dr&uuml;ckt _Fertig_. Wenn die Gleichung korrekt ist, bekommt der Spieler Punkte.
-* Der zweite Spieler w&auml;hlt eine Zahl und dr&uuml;ckt _Fertig_, dann vervollst&auml;ndigt der erste Spieler die Gleichung.
-* Wenn ein Spieler keine L&ouml;sung findet, dr&uuml;ckt sie/er _Passe_.
-* Sieger ist der Spieler, der zuerst 20 Punkte hat.
-F&uuml;r jedes _Plus_ und _Minus_ gibt es 1.5 Punkte, f&uuml;r _Mal_, _Geteilt Durch_ und _Modulo_ gibt es 2.5 Punkte, f&uuml;r _Log_, _Potenzen_ und _Wurzeln_ gibt es 3.5 Punkte. Die Anzahl Zahlen und Rechenoperationen, aus denen ein Spieler ausw&auml;hlen kann, ist individuell f&uuml;r jeden Spieler einstellbar.<br/>
+Ai có thể tìm nhiều phương trình hơn? Trò chơi dành cho hai người chơi, cả hai người chơi theo lượt. Trò chơi bắt đầu, mỗi người chơi có thể chọn từ một bộ số và phép toán. Phần trên cùng của sân chơi hiển thị một phương trình trống, \_&nbsp;\_&nbsp;\_&nbsp;\_&nbsp;\_&nbsp;=&nbsp;\_.
+* Người chơi đầu tiên chọn một số cho phần bên phải của phương trình, ví dụ: _\_&nbsp;\_&nbsp;\_&nbsp;\_&nbsp;\_&nbsp;=&nbsp;9_, và nhấn _Sẵn sàng_.
+* Người chơi thứ hai chọn ba số và hai phép toán cho phần bên trái của phương trình, ví dụ: _(1&nbsp;+&nbsp;2)&nbsp;&middot;&nbsp;3&nbsp;=&nbsp;9_, và nhấn _Sẵn sàng_. Nếu phương trình đúng, Người chơi thứ hai sẽ ghi điểm.
+* Người thứ hai chọn một số và nhấn _Sẵn sàng_, rồi người thứ nhất hoàn thành phương trình.
+* Nếu người chơi không thể hoàn thành phương trình với các số đã cho, họ nhấn _Bỏ lượt_.
+* Người thắng là người được 20 điểm trước.
+Đối với mọi phép _Cộng_ und _Trừ_ có 1,5 điểm, cho mọi _lần_, _Hết_ und _Chia lấy dư_ có 2,5 điểm và cho mọi _Log_, _Lũy thừa_ và _Căn_ có 3,5 điểm. Số lượng các con số và toán tử toán học mà người chơi có thể chọn có thể được đặt riêng cho từng người chơi trước khi bắt đầu trò chơi.<br/>
   
-Wenn Du nur einen Namen eintr&auml;gst, spielst Du alleine.
+Nếu chỉ nhập một tên, người chơi sẽ chơi ở chế độ một người chơi.
 
-[Tripelspiel online spielen](https://rawgit.com/jkanev/educational-html-games/master/game-of-triplets.html)  
+[Chơi Trò chơi của Bộ Ba](https://rawgit.com/jkanev/educational-html-games/master/game-of-triplets.html)  
 [Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
