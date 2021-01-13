@@ -128,57 +128,50 @@ Vân vân,.
 
 ## Tìm số lượng ##
 __Toán học | Màn 1__  
-Festig das Konzept von Zahlen und Mengengrößen, trainiert das Erfassen von Mengengrößen auf einen Blick
+Dạy và đào tạo khái niệm về các con số, nắm bắt số lượng bằng thị giác.
 
-Versuche, die Gr&ouml;&szlig;e von Mengen zu erfassen ohne zu z&auml;hlen. In der einen Version des Spieles ("Tiere") laufen
-mehrere Tiere durchs Bild, in der anderen Version ("Formen") bewegen sich mehrere Formen über den Bildschirm.
-Efasse schnell, wieviele es sind, dann dr&uuml;cke den entsprechenden Knopf. In der Spielversion "Formen" mu&szlig;t Du
-Dich beeilen, denn es gibt ein Zeitlimit! Wenn Deine Antwort richtig ist, bekommst Du einen
-Punkt. Nach zehn Runden ist das Spiel zu Ende. Je nach Punktestand werden verschiedene Belohnungstiere gezeigt.
+Cố gắng nắm bắt số lượng của các bộ mà không cần đếm. Trong một phiên bản của trò chơi ("Động vật"), bạn sẽ thấy một số động vật đi ngang qua, trong phiên bản khác của trò chơi ("Hình dạng"), bạn sẽ thấy một số hình dạng di chuyển ngẫu nhiên. Nhanh chóng xem có bao nhiêu cái, sau đó nhấn nút chính xác. Trong phiên bản "Hình dạng" của trò chơi có giới hạn thời gian, trong phiên bản "Động vật", động vật chỉ bước ra khỏi màn hình. Nếu câu trả lời của bạn đúng, bạn sẽ ghi được một điểm. Sau mười vòng, bạn đã hoàn thành. Tùy thuộc vào số điểm bạn đã thu thập được, bạn sẽ thấy một con vật khác nhau để đánh dấu cấp độ bạn đã đạt được.
 
-[Mengengr&ouml;&szlig;en (Tiere) online spielen](https://rawgit.com/jkanev/educational-html-games/master/set-sizes-animals.html)  
-[Mengengr&ouml;&szlig;en (Formen) online spielen](https://rawgit.com/jkanev/educational-html-games/master/set-sizes-shapes.html)  
-[Alle Spiele als .zip herunterladen](https://github.com/jkanev/educational-html-games/archive/master.zip)  
+[Chơi tìm số lượng (Động vật) trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/set-sizes-animals.html)  
+[Chơi tìm số lượng (Hình dạng) trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/set-sizes-shapes.html)  
+[Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
 <div id='id-triple-number-memory-vi'/>
 
-## Dreifach-Zahlenmemory ##
-__Mathematik, Deutsch | Klasse 1__  
-Festigt das Zahlenkonzept, kombiniert verschiedene Zahlenrepr&auml;sentationen, &uuml;bt das Lesen von Zahlw&ouml;rtern.
+## Nhớ ba số ##
+__Toán học, Tiếng Anh | Màn 1__  
+Dạy và đào tạo khái niệm về số, kết hợp các cách biểu diễn số khác nhau, luyện đọc các từ số.
 
-Finde alle Karten, die die gleiche Zahl zeigen. Immer drei Karten geh&ouml;ren zusammen, wie zum Beispiel
-<span style="color: #f00000;"><b>_3_</b></span> und <span style="color: #f00000;"><b>_&#8756;_</b></span> und
-<span style="color: #f00000;"><b>_Drei_</b></span>. Spieler spielen der Reihe nach, jeder Spieler deckt drei neue
-Karten auf, danach ist der n&auml;chste Spieler an der Reihe.
+Ghi nhớ và tìm bộ ba thẻ phù hợp hiển thị cùng một số, như
+<span style="color: #f00000;"><b>_3_</b></span> và <span style="color: #f00000;"><b>_&#8756;_</b></span> và
+<span style="color: #f00000;"><b>_Ba_</b></span>. Người chơi chơi theo lượt, mỗi người chơi mở ra ba thẻ mới bằng cách
+nhấp vào chúng. Sau ba lần nhấp, đến lượt người chơi tiếp theo.
 
-[Dreifach-Zahlenmemory online spielen](https://rawgit.com/jkanev/educational-html-games/master/triple-number-memory.html)  
-[Alle Spiele als .zip herunterladen](https://github.com/jkanev/educational-html-games/archive/master.zip)  
+[Chơi trò nhớ 3 số trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/triple-number-memory.html)  
+[Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
 <div id='id-game-of-sums-vi'/>
 
-## Additions- und Subtraktionsduell ##
-__Mathematik | Klasse 1-2__  
-Trainiert Addition in wählbaren Zahlenr&auml;umen, Subtraktion und Kopfrechnen.
+## Trò chơi của tổng và hiệu ##
+__Toán học | Màn 1-2__  
+Dạy và huấn luyện phép cộng, tổng và hiệu, tính nhẩm.
 
-Fordere Deinen Gegner zu einem Summen- oder Differenzenwettkampf heraus! Zwei Spieler spielen abwechselnd.
-* Der erste Spieler w&auml;hlt eine Zahl und dr&uuml;ckt _Fertig_.
-* Der zweite Spiele w&auml;hlt zwei Zahlen, deren Summe (in der einen Version des Spieles) oder deren Differenz (in der
-anderen Version des Spiels) die Zahl des ersten Spielers ergibt und dr&uuml;ckt _Fertig_.
-Wenn die Gleichung korrekt ist, bekommt der zweite Spieler einen Punkt.
-* Der zweite Spieler w&auml;hlt eine Zahl und dr&uuml;ckt _Fertig_. Dann w&auml;hlt der erste Spieler zwei Zahlen, die
-die Gleichung vervollst&auml;ndigen.
-* Wenn es keine passenden Zahlen mehr gibt, dr&uuml;ckt der Spieler _Passe_.
+  Thách thức đối thủ của bạn trong một trò chơi của tổng hoặc hiệu! Người chơi đi theo lượt.
+* Người chơi đầu tiên chọn một số và nhấn  _Sẵn sàng_.
+* Người chơi thứ hai chọn hai số là tổng (trong một phiên bản của trò chơi) hoặc hiệu (trong phiên bản còn lại của trò chơi) của số người chơi thứ nhất chọn và nhấn _Sẵn sàng_.
+Nếu phương trình đúng, người chơi thứ hai được một điểm.
+* Người chơi thứ hai chọn một số cho người chơi thứ nhất và nhấn _Sẵn sàng_. Sau đó, người chơi đầu tiên tìm hai số để hoàn thành phương trình.
+* Nếu không có số nào có thể hoàn thành phương trình, người chơi nhấn _Bỏ lượt_.
 
-Wenn ein Spieler keine Karten mehr hat, ist das Spiel beendet. Sieger ist der Spieler mit den meisten Punkten.
+Nếu một người chơi không còn số hoặc nếu cả hai người chơi đều bở lượt, trò chơi kết thúc. Người chiến thắng là người chơi có nhiều điểm nhất.
 
-Wenn Du nur einen Namen eintr&auml;gst, spielst Du alleine. Versuche so geschickt zu spielen, da&szlig; Du alle Karten
-aufbrauchst ohne zu passen.
+ Nếu bạn chỉ nhập một tên, bạn sẽ chơi một mình. Cố gắng chọn số của bạn một cách thông minh và sử dụng hết các thẻ của bạn mà không cần phải bỏ lượt một lần nào.
 
-[Additionsduell online spielen](https://rawgit.com/jkanev/educational-html-games/master/game-of-sums.html)  
-[Subtraktionsduell online spielen](https://rawgit.com/jkanev/educational-html-games/master/game-of-differences.html)  
-[Alle Spiele als .zip herunterladen](https://github.com/jkanev/educational-html-games/archive/master.zip)  
+[Chơi Trò chơi của Tổng trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/game-of-sums.html)  
+[Chơi Trò chơi của Hiệu trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/game-of-differences.html)  
+[Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
 <div id='id-game-of-triplets-vi'/>
@@ -198,5 +191,5 @@ F&uuml;r jedes _Plus_ und _Minus_ gibt es 1.5 Punkte, f&uuml;r _Mal_, _Geteilt D
 Wenn Du nur einen Namen eintr&auml;gst, spielst Du alleine.
 
 [Tripelspiel online spielen](https://rawgit.com/jkanev/educational-html-games/master/game-of-triplets.html)  
-[Alle Spiele als .zip herunterladen](https://github.com/jkanev/educational-html-games/archive/master.zip)  
+[Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
