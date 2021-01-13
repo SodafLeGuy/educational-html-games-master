@@ -13,10 +13,10 @@ English
 Tiếng Việt
 
 - [Giới thiệu](#id-introduction-vi)
-- [Tìm số lượng](#id-sets-vi)
-- [Nhớ ba số](#id-triple-number-memory-vi)
-- [Trò chơi của tổng và hiệu](#id-game-of-sums-vi)
-- [Trò chơi của ba số](#id-game-of-triplets-vi)
+- [Tìm Số Lượng](#id-sets-vi)
+- [Nhớ Ba Số](#id-triple-number-memory-vi)
+- [Trò chơi của Tổng và Hiệu](#id-game-of-sums-vi)
+- [Trò chơi của Bộ Ba](#id-game-of-triplets-vi)
 
 
 # English #
@@ -126,7 +126,7 @@ Vân vân,.
 
 <div id='id-sets-vi'/>
 
-## Tìm số lượng ##
+## Tìm Số Lượng ##
 __Toán học | Màn 1__  
 Dạy và đào tạo khái niệm về các con số, nắm bắt số lượng bằng thị giác.
 
@@ -139,7 +139,7 @@ Cố gắng nắm bắt số lượng của các bộ mà không cần đếm. T
 
 <div id='id-triple-number-memory-vi'/>
 
-## Nhớ ba số ##
+## Nhớ Ba Số ##
 __Toán học, Tiếng Anh | Màn 1__  
 Dạy và đào tạo khái niệm về số, kết hợp các cách biểu diễn số khác nhau, luyện đọc các từ số.
 
@@ -154,7 +154,7 @@ nhấp vào chúng. Sau ba lần nhấp, đến lượt người chơi tiếp th
 
 <div id='id-game-of-sums-vi'/>
 
-## Trò chơi của tổng và hiệu ##
+## Trò chơi của Tổng và Hiệu ##
 __Toán học | Màn 1-2__  
 Dạy và huấn luyện phép cộng, tổng và hiệu, tính nhẩm.
 
@@ -176,8 +176,8 @@ Nếu một người chơi không còn số hoặc nếu cả hai người chơi
 
 <div id='id-game-of-triplets-vi'/>
 
-## Tripel-Spiel ##
-__Mathematik | Klasse 1-10__  
+## Trò chơi của Bộ Ba ##
+__Toán học | Màn 1-10__  
 Trainiert Grundrechenarten, Potenzen, Logarithmen auf ganzen Zahlen, Zahlenraum 0-20.
 
 Wer kann mehr Gleichungen finden? Spiel f&uuml;r zwei Spieler, die Spieler spielen abwechselnd. Das Spiel beginnt, jeder Spieler hat eine Anzahl an Zahlen und Rechenoperationen zur Auswahl, im oberen Spielfeld ist eine leere Gleichung, \_&nbsp;\_&nbsp;\_&nbsp;\_&nbsp;\_&nbsp;=&nbsp;\_, zu sehen.
