@@ -60,7 +60,7 @@ Remember and find matching triplets of cards showing the same number, like
 <span style="color: #f00000;"><b>_Three_</b></span>. Players play in turns, each player uncovers three new cards by
 clicking on them. After three clicks it's the next player's turn.
 
-[Play Triple Number Memory online](https://rawgit.com/jkanev/educational-html-games/master/triple-number-memory.html)  
+[Play Triple Number Memory online](https://rawgit.com/jkanev/educational-html-games/master/triple-number-memory(EN-VI).html)  
 [Download .zip with all games](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
@@ -85,8 +85,8 @@ The winner is the player with most points.
 If you enter only one name you'll be playing on your own. Try to choose your numbers in a clever way and use up all your
 cards without having to pass once.
 
-[Play Game of Sums online](https://rawgit.com/jkanev/educational-html-games/master/game-of-sums.html)  
-[Play Game of Differences online](https://rawgit.com/jkanev/educational-html-games/master/game-of-differences.html)  
+[Play Game of Sums online](https://rawgit.com/jkanev/educational-html-games/master/game-of-sums(EN-VI).html)  
+[Play Game of Differences online](https://rawgit.com/jkanev/educational-html-games/master/game-of-differences(EN-VI).html)  
 [Download .zip with all games](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
@@ -107,7 +107,7 @@ For every _plus_ and _minus_ there are 1.5 points, for every _times_, _over_ and
 
 If you enter just a single player's name, the game will be run in single-player mode.
 
-[Play Game of Triplets online](https://rawgit.com/jkanev/educational-html-games/master/game-of-triplets.html)  
+[Play Game of Triplets online](https://rawgit.com/jkanev/educational-html-games/master/game-of-triplets(EN-VI).html)  
 [Download .zip with all games](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
@@ -148,7 +148,7 @@ Ghi nhớ và tìm bộ ba thẻ phù hợp hiển thị cùng một số, như
 <span style="color: #f00000;"><b>_Ba_</b></span>. Người chơi chơi theo lượt, mỗi người chơi mở ra ba thẻ mới bằng cách
 nhấp vào chúng. Sau ba lần nhấp, đến lượt người chơi tiếp theo.
 
-[Chơi trò nhớ 3 số trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/triple-number-memory.html)  
+[Chơi trò nhớ 3 số trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/triple-number-memory(EN-VI).html)  
 [Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
@@ -169,8 +169,8 @@ Nếu một người chơi không còn số hoặc nếu cả hai người chơi
 
  Nếu bạn chỉ nhập một tên, bạn sẽ chơi một mình. Cố gắng chọn số của bạn một cách thông minh và sử dụng hết các thẻ của bạn mà không cần phải bỏ lượt một lần nào.
 
-[Chơi Trò chơi của Tổng trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/game-of-sums.html)  
-[Chơi Trò chơi của Hiệu trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/game-of-differences.html)  
+[Chơi Trò chơi của Tổng trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/game-of-sums(EN-VI).html)  
+[Chơi Trò chơi của Hiệu trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/game-of-differences(EN-VI).html)  
 [Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
@@ -190,6 +190,6 @@ Ai có thể tìm nhiều phương trình hơn? Trò chơi dành cho hai ngườ
   
 Nếu chỉ nhập một tên, người chơi sẽ chơi ở chế độ một người chơi.
 
-[Chơi Trò chơi của Bộ Ba](https://rawgit.com/jkanev/educational-html-games/master/game-of-triplets.html)  
+[Chơi Trò chơi của Bộ Ba](https://rawgit.com/jkanev/educational-html-games/master/game-of-triplets(EN-VI).html)  
 [Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
