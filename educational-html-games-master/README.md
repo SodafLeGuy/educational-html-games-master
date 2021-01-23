@@ -132,8 +132,8 @@ Dạy và đào tạo khái niệm về các con số, nắm bắt số lượng
 
 Cố gắng nắm bắt số lượng của các bộ mà không cần đếm. Trong một phiên bản của trò chơi ("Động vật"), bạn sẽ thấy một số động vật đi ngang qua, trong phiên bản khác của trò chơi ("Hình dạng"), bạn sẽ thấy một số hình dạng di chuyển ngẫu nhiên. Nhanh chóng xem có bao nhiêu cái, sau đó nhấn nút chính xác. Trong phiên bản "Hình dạng" của trò chơi có giới hạn thời gian, trong phiên bản "Động vật", động vật chỉ bước ra khỏi màn hình. Nếu câu trả lời của bạn đúng, bạn sẽ ghi được một điểm. Sau mười vòng, bạn đã hoàn thành. Tùy thuộc vào số điểm bạn đã thu thập được, bạn sẽ thấy một con vật khác nhau để đánh dấu cấp độ bạn đã đạt được.
 
-[Chơi tìm số lượng (Động vật) trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/set-sizes-animals.html)  
-[Chơi tìm số lượng (Hình dạng) trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/set-sizes-shapes.html)  
+[Chơi tìm số lượng (Động vật) trực tuyến](../educational-html-games-master/set-sizes-animals.html)  
+[Chơi tìm số lượng (Hình dạng) trực tuyến](../educational-html-games-master/set-sizes-shapes.html)  
 [Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
@@ -148,7 +148,7 @@ Ghi nhớ và tìm bộ ba thẻ phù hợp hiển thị cùng một số, như
 <span style="color: #f00000;"><b>_Ba_</b></span>. Người chơi chơi theo lượt, mỗi người chơi mở ra ba thẻ mới bằng cách
 nhấp vào chúng. Sau ba lần nhấp, đến lượt người chơi tiếp theo.
 
-[Chơi trò nhớ 3 số trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/triple-number-memory(EN-VI).html)  
+[Chơi trò nhớ 3 số trực tuyến](../educational-html-games-master/triple-number-memory(EN-VI).html)  
 [Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
@@ -169,8 +169,8 @@ Nếu một người chơi không còn số hoặc nếu cả hai người chơi
 
  Nếu bạn chỉ nhập một tên, bạn sẽ chơi một mình. Cố gắng chọn số của bạn một cách thông minh và sử dụng hết các thẻ của bạn mà không cần phải bỏ lượt một lần nào.
 
-[Chơi Trò chơi của Tổng trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/game-of-sums(EN-VI).html)  
-[Chơi Trò chơi của Hiệu trực tuyến](https://rawgit.com/jkanev/educational-html-games/master/game-of-differences(EN-VI).html)  
+[Chơi Trò chơi của Tổng trực tuyến](../educational-html-games-master/game-of-sums(EN-VI).html)  
+[Chơi Trò chơi của Hiệu trực tuyến](../educational-html-games-master/game-of-differences(EN-VI).html)  
 [Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
@@ -190,6 +190,6 @@ Ai có thể tìm nhiều phương trình hơn? Trò chơi dành cho hai ngườ
   
 Nếu chỉ nhập một tên, người chơi sẽ chơi ở chế độ một người chơi.
 
-[Chơi Trò chơi của Bộ Ba](https://rawgit.com/jkanev/educational-html-games/master/game-of-triplets(EN-VI).html)  
+[Chơi Trò chơi của Bộ Ba](../educational-html-games-master/game-of-triplets(EN-VI).html)  
 [Tải tập .zip với tất cả trò chơi](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
