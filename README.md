@@ -44,8 +44,8 @@ limit, in the "Animal" version the animals just walk out of the screen.
 If your answer was correct, you'll score a point. After ten rounds you're done.
 Depending on the amount of points you've collected, you'll see a different animal to mark the level you've reached.
 
-[Play Set Sizes (Animals) online](https://rawgit.com/jkanev/educational-html-games/master/set-sizes-animals.html)  
-[Play Set Sizes (Shapes) online](https://rawgit.com/jkanev/educational-html-games/master/set-sizes-shapes.html)  
+[Play Set Sizes (Animals) online](../educational-html-games-master/set-sizes-animals.html)  
+[Play Set Sizes (Shapes) online](../educational-html-games-master/set-sizes-shapes.html)  
 [Download .zip with all games](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
@@ -60,7 +60,7 @@ Remember and find matching triplets of cards showing the same number, like
 <span style="color: #f00000;"><b>_Three_</b></span>. Players play in turns, each player uncovers three new cards by
 clicking on them. After three clicks it's the next player's turn.
 
-[Play Triple Number Memory online](https://rawgit.com/jkanev/educational-html-games/master/triple-number-memory(EN-VI).html)  
+[Play Triple Number Memory online](../educational-html-games-master/triple-number-memory(EN-VI).html)  
 [Download .zip with all games](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
@@ -85,8 +85,8 @@ The winner is the player with most points.
 If you enter only one name you'll be playing on your own. Try to choose your numbers in a clever way and use up all your
 cards without having to pass once.
 
-[Play Game of Sums online](https://rawgit.com/jkanev/educational-html-games/master/game-of-sums(EN-VI).html)  
-[Play Game of Differences online](https://rawgit.com/jkanev/educational-html-games/master/game-of-differences(EN-VI).html)  
+[Play Game of Sums online](../educational-html-games-master/game-of-sums(EN-VI).html)  
+[Play Game of Differences online](../educational-html-games-master/game-of-differences(EN-VI).html)  
 [Download .zip with all games](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
@@ -107,7 +107,7 @@ For every _plus_ and _minus_ there are 1.5 points, for every _times_, _over_ and
 
 If you enter just a single player's name, the game will be run in single-player mode.
 
-[Play Game of Triplets online](https://rawgit.com/jkanev/educational-html-games/master/game-of-triplets(EN-VI).html)  
+[Play Game of Triplets online](../educational-html-games-master/game-of-triplets(EN-VI).html)  
 [Download .zip with all games](https://github.com/jkanev/educational-html-games/archive/master.zip)  
 
 
