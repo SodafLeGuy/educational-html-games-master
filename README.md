@@ -28,7 +28,7 @@ Tiếng Việt
 Various small educational games. Each game consists of one single (html) file, no external references are loaded. All
 images, animations, etc are embedded within the file. To play a game, all you need is the one game file and a
 standard internet browser. Games can be saved to your local PC/tablet/mobile and played there, sent via email, skype,
-etc,. Code is under a CC-BY license, please feel free to share with your friends.
+etc,. 
 
 
 <div id='id-sets-en'/>
